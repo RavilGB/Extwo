@@ -1,0 +1,15 @@
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\bin\Debug\net6.0\Exam01.exe
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\bin\Debug\net6.0\Exam01.deps.json
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\bin\Debug\net6.0\Exam01.runtimeconfig.json
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\bin\Debug\net6.0\Exam01.dll
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\bin\Debug\net6.0\Exam01.pdb
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.csproj.AssemblyReference.cache
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.AssemblyInfoInputs.cache
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.AssemblyInfo.cs
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.csproj.CoreCompileInputs.cache
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.dll
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\refint\Exam01.dll
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.pdb
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\Exam01.genruntimeconfig.cache
+C:\Users\Равиль\Desktop\ExamTwo\Examples\Exam01\obj\Debug\net6.0\ref\Exam01.dll
