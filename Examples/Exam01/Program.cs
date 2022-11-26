@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello bro, World!");
+﻿Console.WriteLine("Hello niger!");
